@@ -17,5 +17,12 @@
   "devDependencies": {
     "@types/node": "^18.14.5",
     "typescript": "^4.9.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dumspy/bnet-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dumspy/bnet-ts/issues"
   }
 }
