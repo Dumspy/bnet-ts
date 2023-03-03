@@ -1,0 +1,21 @@
+{
+  "name": "bnet-ts",
+  "version": "0.0.1",
+  "description": "bnet ts is a simple typesafe api wrapper for the battle.net api",
+  "main": "/dist/index.js",
+  "type":  "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dispy (Felix Berger) <felix.enok.berger@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "zod": "^3.20.6"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.5",
+    "typescript": "^4.9.5"
+  }
+}
