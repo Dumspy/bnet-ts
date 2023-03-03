@@ -1,9 +1,9 @@
 {
   "name": "bnet-ts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "bnet ts is a simple typesafe api wrapper for the battle.net api",
   "main": "/dist/index.js",
-  "type":  "module",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
